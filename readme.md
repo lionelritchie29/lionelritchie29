@@ -6,7 +6,7 @@
 - 📕 Currently a Third Year **Computer Science** Student
 - 🌐 Mainly works in **Web Development** field, especially using **Javascript**   
 - 📘 Love to **read books**, mostly about self development and finance
-- ⚡ Actively exploring and trying out new web technology
+- ⚡ Actively exploring and trying out new web technologies
 
 
 ### Reach me
