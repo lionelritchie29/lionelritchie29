@@ -3,7 +3,7 @@
 
 ### About me  
 - 💻 Currently working as **Research and Development** Team at Software Laboratory Center Binus University, maintaining various web applications used for internal and students
-- 📕 Currently a Third Year **Computer Science** Student
+- 📕 **Computer Science** Undergraduate from Binus University
 - 🌐 Mainly works in **Web Development** field, especially using **Javascript** / **Typescript**  
 - 📘 Love to **read books**, mostly about self development and finance
 - ⚡ Actively exploring and trying out new web technologies
