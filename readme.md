@@ -2,6 +2,7 @@
 
 
 ### About me  
+- Likes building performant and nice-looking web apps. Interested in scalable frontends and distributed system design.
 - 💻 Currently working as **Research and Development** Team at Software Laboratory Center Binus University, maintaining various web applications used for internal and students
 - 📕 **Computer Science** Undergraduate from Binus University
 - 🌐 Mainly works in **Web Development** field, especially using **Javascript** / **Typescript**  
