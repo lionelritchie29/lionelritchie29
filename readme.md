@@ -19,5 +19,5 @@
 
 ### 📊 Stats:
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=lionelritchie29&show_icons=true&theme=buefy&hide_border=true" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lionelritchie29&layout=compact&theme=buefy&hide_border=true" alt="" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=lionelritchie29&show_icons=true&theme=transparent&hide_border=true" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lionelritchie29&layout=compact&theme=transparent&hide_border=true" alt="" /> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
