@@ -39,7 +39,10 @@
 
 ### Other Tools
 <div>
- 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"  width="40" height="40" title="Docker" alt="Docker" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="40" height="40" title="Firebase" alt="Firebase" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40" title="Nginx" alt="Nginx"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" height="40" title="AWS" alt="AWS" />
 </div>
 
 ### Statistics
