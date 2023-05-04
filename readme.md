@@ -1,9 +1,11 @@
-## Heyyo, I'm [Lionel Ritchie](https://ritchie.vercel.app/) 👋  
-
 ![](https://media.licdn.com/dms/image/D5616AQHqn5ZZoo74eQ/profile-displaybackgroundimage-shrink_350_1400/0/1679020975103?e=1688601600&v=beta&t=CUZXDsI4Ie4zAGsFXGFR5Ki3NdwZividyFOQDFBO5m0)
 
+### Hi there, I am [Lionel Ritchie](https://ritchie.vercel.app/) 👋
+
+> A `software engineer` from **Jakarta, Indonesia**.
+
 ### About me  
-- 💻 Currently working as **Research and Development** Engineer at Software Laboratory Center Binus University, maintaining various web applications used for internal and students
+- 💻 Currently work as **Research and Development** Engineer at Software Laboratory Center Binus University, maintaining various web applications used for internal and students
 - 📕 Bachelor of **Computer Science** from Binus University
 - 🌐 Mainly works in **Web Development** field, especially using **Javascript** / **Typescript** 
 - ❤️ Likes building performant and nice-looking web apps. Interested in scalable frontends and distributed system design.  
