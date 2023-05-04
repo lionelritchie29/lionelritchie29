@@ -46,8 +46,6 @@
 </div>
 
 ### Statistics
-<div style="display: flex">
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lionelritchie29&layout=compact&theme=dracula)](https://github.com/lionelritchie29)  
- [![Lionel Ritchie's GitHub stats](https://github-readme-stats.vercel.app/api?username=lionelritchie29&count_private=true&show_icons=true&hide=issues,contrib&theme=dracula)](https://github.com/lionelritchie29)
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lionelritchie29&layout=compact&theme=dracula)](https://github.com/lionelritchie29)  
+[![Lionel Ritchie's GitHub stats](https://github-readme-stats.vercel.app/api?username=lionelritchie29&count_private=true&show_icons=true&hide=issues,contrib&theme=dracula)](https://github.com/lionelritchie29)
   
