@@ -2,7 +2,7 @@
 
 ### Hi there, I am [Lionel Ritchie](https://ritchie.vercel.app/) 👋
 
-> A `software engineer` from **Jakarta, Indonesia**.
+> `Software Engineer` from **Jakarta, Indonesia**.
 
 ### About me  
 - 💻 Currently working as **Research and Development** Engineer at Software Laboratory Center Binus University, maintaining various web applications used for internal and students
