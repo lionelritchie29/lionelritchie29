@@ -5,7 +5,7 @@
 > `Software Engineer` based in **Jakarta, Indonesia**.
 
 ### About me  
-- 💻 Currently working as **Research and Development** Engineer at Software Laboratory Center Binus University, maintaining various web applications used for internal and students
+- 💻 Currently working as **Frontend** Engineer at **Zaapi**
 - 📕 Bachelor of **Computer Science** from Binus University
 - 🌐 Mainly works in **Web Development** field, especially using **Javascript** / **Typescript** 
 - ❤️ Likes building performant and nice-looking web apps. Interested in scalable frontends and distributed system design.  
