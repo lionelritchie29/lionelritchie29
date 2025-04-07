@@ -5,7 +5,7 @@
 > `Software Engineer` based in **Jakarta, Indonesia**.
 
 ### About me  
-- 💻 Currently working as **Software Engineer** at **Zaapi**
+- 💻 Currently working as **Senior Software Engineer** at **Zaapi**
 - 📕 Bachelor of **Computer Science** from Binus University
 - 🌐 Mainly works in **Web Development** field, especially using **Javascript** / **Typescript** 
 - ❤️ Likes building performant and nice-looking web apps. Interested in scalable frontends and distributed system design.  
